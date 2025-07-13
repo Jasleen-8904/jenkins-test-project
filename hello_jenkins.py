@@ -28,10 +28,10 @@ This script is designed to print a simple message to verify:
 """
 
 def main():
-    print("✅ Jenkins is successfully connected to GitHub!")
-    print("🚀 This script was cloned from GitHub and executed by Jenkins.")
-    print("📁 Repo: https://github.com/Jasleen-8904/jenkins-test-project")
-    print("🎉 Hello from Jenkins + GitHub 🎉")
+    print("Jenkins is successfully connected to GitHub!")
+    print("This script was cloned from GitHub and executed by Jenkins.")
+    print("Repo: https://github.com/Jasleen-8904/jenkins-test-project")
+    print("Hello from Jenkins + GitHub")
 
 
 if __name__ == "__main__":
